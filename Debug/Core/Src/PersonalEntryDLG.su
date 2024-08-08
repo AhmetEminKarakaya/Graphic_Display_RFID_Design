@@ -1,0 +1,5 @@
+PersonalEntryDLG.c:114:13:_cbDialog	16	static
+PersonalEntryDLG.c:138:9:CreatePersonalEntry	24	static
+PersonalEntryDLG.c:147:6:CheckData	40	static
+PersonalEntryDLG.c:192:12:_GetData	32	static
+PersonalEntryDLG.c:208:6:RFID_Reader	32	static
