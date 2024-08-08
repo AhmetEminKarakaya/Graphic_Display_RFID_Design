@@ -13,20 +13,20 @@ Identity Verification: The user logs in to the system by reading the RFID card o
 Information and Photo Display: When the card is read, the user's name, photo and other information are displayed on the TFT screen.
 Data Storage: User information is stored on the SD card and can be updated when necessary.
 
-## Hardware Connections:
+## Hardware Connections
 Connect your STM32 card and RFID module appropriately.
 Create the display unit by connecting the TFT display to the STM32 card.
 Insert the SD card into the card slot of the TFT display.
 
-## Software Installation:
+## Software Installation
 Install the necessary drivers and libraries for STM32.
 Download or clone the project files from this link.
 Open the project in a development environment such as STM32CubeIDE or Keil uVision.
 
-## Compile and Load:
+## Compile and Load
 Compile the project and load it to the STM32 card.
 
-## SD Card Settings:
+## SD Card Settings
 Organize the user information and photos according to the specific file structure created on the SD card.
 
 ## Usage
